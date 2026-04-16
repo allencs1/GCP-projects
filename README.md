@@ -2,6 +2,23 @@
 Beginner/Novice Google platform cloud projects
 <br>
 <br>
+## Project 01 - Static Website (GCP)
+
+### Project Goal
+Host a simple static website using Google Cloud Storage.
+
+### What I Did
+- Created a Google Cloud Storage bucket
+- Enabled public access to the bucket
+- Uploaded an index.html file
+- Hosted a live website using Cloud Storage
+
+### What I Learned
+- How cloud storage works in Google Cloud
+- How permissions control public vs private access
+- How static websites can be hosted without servers
+
+
 ## Project 02 - App Engine Deployment
 
 ### What I Did
