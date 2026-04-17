@@ -33,3 +33,24 @@ Host a simple static website using Google Cloud Storage.
 - Importance of service accounts and IAM roles
 - How to debug cloud build failures
 - Why requirements.txt is required for Python apps
+
+  ## Project 03 - Cloud Function API (GCP)
+
+### Project Goal
+Create a serverless API using Google Cloud Functions.
+
+### What I Did
+- Created a Python function using Cloud Shell
+- Deployed it using gcloud CLI
+- Configured HTTP trigger for public access
+- Fixed IAM permission issues during deployment
+- Returned JSON data from the function
+
+### What I Learned
+- What an API is and how it works
+- Difference between App Engine and Cloud Functions
+- How serverless functions run on demand
+- How to use JSON to return structured data
+- How IAM roles affect deployments
+
+
