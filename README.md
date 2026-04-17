@@ -18,7 +18,7 @@ Host a simple static website using Google Cloud Storage.
 - How permissions control public vs private access
 - How static websites can be hosted without servers
 
-![screenshots/](Google-static-webpage.png)
+![Static Webpage](screenshots/Google-static-webpage.png)
 
 ## Project 02 - App Engine Deployment
 
