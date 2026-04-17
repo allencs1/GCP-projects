@@ -53,4 +53,28 @@ Create a serverless API using Google Cloud Functions.
 - How to use JSON to return structured data
 - How IAM roles affect deployments
 
+- ### Project Goal
+Build a serverless API that accepts input from the URL and returns dynamic JSON output.
+
+### What I Did
+- Updated a Google Cloud Function to read a query parameter from the URL
+- Returned dynamic JSON based on the value provided
+- Deployed the function using the gcloud CLI
+- Tested the API with different names in the browser
+
+### What I Learned
+- The difference between a static and dynamic API
+- How query parameters work
+- How JSON can return structured data
+- How Cloud Functions run code on demand
+
+### Example Output
+
+```json
+{
+  "message": "Hello Christopher",
+  "project": "Dynamic Cloud Function API",
+  "status": "working"
+}
+
 
