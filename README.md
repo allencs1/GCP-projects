@@ -35,6 +35,8 @@ Host a simple static website using Google Cloud Storage.
 - How to debug cloud build failures
 - Why requirements.txt is required for Python apps
 
+  ![Google App](screenshots/GoogleApp-webpage.png)
+
   ## Project 03 - Cloud Function API (GCP)
 
 ### Project Goal
