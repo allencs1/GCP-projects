@@ -37,7 +37,7 @@ Host a simple static website using Google Cloud Storage.
 - Why requirements.txt is required for Python apps
 
 ![Google App](screenshots/GoogleApp-webpage.png)
-![Cloudshell](screenshots/Cloudshell.png)
+![Cloudshell](screenshots/CloudShell.png)
   ## Project 03 - Cloud Function API (GCP)
 
 ### Project Goal
