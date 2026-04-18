@@ -38,7 +38,8 @@ Host a simple static website using Google Cloud Storage.
 
 ![Google App](screenshots/GoogleApp-webpage.png)
 ![Cloudshell](screenshots/CloudShell.png)
-  ## Project 03 - Cloud Function API (GCP)
+
+## Project 03 - Cloud Function API (GCP)
 
 ### Project Goal
 Create a serverless API using Google Cloud Functions.
@@ -57,7 +58,9 @@ Create a serverless API using Google Cloud Functions.
 - How to use JSON to return structured data
 - How IAM roles affect deployments
 
-- ### Project Goal
+![IAMuser](screenshots/IAMuser-update.png)  
+
+### Project Goal
 Build a serverless API that accepts input from the URL and returns dynamic JSON output.
 
 ### What I Did
