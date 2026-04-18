@@ -19,6 +19,7 @@ Host a simple static website using Google Cloud Storage.
 - How static websites can be hosted without servers
 
 ![Static Webpage](screenshots/Google-static-webpage.png)
+![Google Bucket](screenshots/Google-bucket-details.png)
 
 ## Project 02 - App Engine Deployment
 
@@ -35,8 +36,8 @@ Host a simple static website using Google Cloud Storage.
 - How to debug cloud build failures
 - Why requirements.txt is required for Python apps
 
-  ![Google App](screenshots/GoogleApp-webpage.png)
-
+![Google App](screenshots/GoogleApp-webpage.png)
+![Cloudshell](screenshots/Cloudshell.png)
   ## Project 03 - Cloud Function API (GCP)
 
 ### Project Goal
