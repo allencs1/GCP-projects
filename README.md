@@ -23,6 +23,9 @@ Host a simple static website using Google Cloud Storage.
 
 ## Project 02 - App Engine Deployment
 
+### Project Goal
+Deploy a Python web application using Google App Engine and make it accessible through a public URL.
+
 ### What I Did
 - Deployed a Python app using Google App Engine
 - Created app files using Cloud Shell
@@ -61,6 +64,8 @@ Create a serverless Static API using Google Cloud Functions.
 ![IAMuser](screenshots/IAMuser-update.png) 
 ![Static API](screenshots/Static-API.png)
 
+### Project 04 - Cloud Function Dynamic API (GCP)
+
 ### Project Goal
 Create a serverless Dynamic API using Google Cloud Functions
 
@@ -76,7 +81,7 @@ Create a serverless Dynamic API using Google Cloud Functions
 - How JSON can return structured data
 - How Cloud Functions run code on demand
 
-### Example Output
+
 
 ```json
 {
