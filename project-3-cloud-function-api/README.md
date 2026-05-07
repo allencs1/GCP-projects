@@ -44,21 +44,15 @@ https://FUNCTION-URL?name=Christopher
 
 # 🖥️ Screenshots
 
+![static](../screenshots/Static-API.png)
 
-The Cloud Function processes the request and returns a structured JSON response.
+![dynamic](../screenshots/cloud-api-dynamic.png)
 
-This demonstrates how APIs can dynamically respond to user input without requiring a traditional server.
 
 ---
 
-# 🖥️ Example JSON Response
 
-```json
-{
-  "message": "Hello Christopher",
-  "project": "Dynamic Cloud Function API",
-  "status": "working"
-}
+
 ```
 
 ---
