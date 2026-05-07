@@ -69,7 +69,7 @@ This simulates how frontend systems communicate with backend application servers
 ![Ping Backend](../screenshots/ping-backend.png)
 
 ## Frontend SSH to Backend VM
-![SSH Backend](../screenshots/frontend-ssh-backend.png)
+![SSH Backend](../screenshots/ssh-into-backend-from-frontend.png)
 
 ## Frontend Accessing Backend Service
 ![Backend Service](../screenshots/frontend-to-backend-service.png)
