@@ -66,7 +66,7 @@ This simulates how frontend systems communicate with backend application servers
 ![Network Overview](../screenshots/vm-network-overview.png)
 
 ## Frontend VM Ping Backend VM
-![Ping Backend](../screenshots/frontend-ping-backend.png)
+![Ping Backend](../screenshots/ping-backend.png)
 
 ## Frontend SSH to Backend VM
 ![SSH Backend](../screenshots/frontend-ssh-backend.png)
