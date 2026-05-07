@@ -57,7 +57,7 @@ This simulates how frontend systems communicate with backend application servers
 # 🖥️ Screenshots
 
 ## VM Created
-![VM](../screenshots/vm-front-backend.png.)
+![VM](../screenshots/vm-front-backend.png)
 
 ## Frontend VM Ping Backend VM
 ![Ping Backend](../screenshots/ping-backend.png)
