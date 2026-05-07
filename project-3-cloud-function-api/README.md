@@ -42,6 +42,9 @@ Example:
 https://FUNCTION-URL?name=Christopher
 ```
 
+# 🖥️ Screenshots
+
+
 The Cloud Function processes the request and returns a structured JSON response.
 
 This demonstrates how APIs can dynamically respond to user input without requiring a traditional server.
