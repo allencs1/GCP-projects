@@ -56,14 +56,7 @@ This simulates how frontend systems communicate with backend application servers
 
 # 🖥️ Screenshots
 
-## Frontend VM Created
-![Frontend VM](../screenshots/frontend-vm-created.png)
-
-## Backend VM Created
-![Backend VM](../screenshots/backend-vm-created.png)
-
-## VM Network Overview
-![Network Overview](../screenshots/vm-network-overview.png)
+## VM Created
 
 ## Frontend VM Ping Backend VM
 ![Ping Backend](../screenshots/ping-backend.png)
@@ -72,7 +65,7 @@ This simulates how frontend systems communicate with backend application servers
 ![SSH Backend](../screenshots/ssh-into-backend-from-frontend.png)
 
 ## Frontend Accessing Backend Service
-![Backend Service](../screenshots/frontend-to-backend-service.png)
+![Backend Service](../screenshots/internal-vpc-traffic.png)
 
 ---
 
